@@ -1,0 +1,605 @@
+Rodzaj klienta,Kod pocz.,Miasto,Ulica,Nr budynku,Typ pojemnika,Ilość poj.,Kod odpadu,Cykl odbiorów
+BWA,05-090,Raszyn,Unii Europejskiej,15,L-240K,1,200136,
+BRA,05-505,Błonie,Lesznowska,10,L-240K,1,70681,
+BHC,05-850 ,Ołtarzew,Poznańska,14,L-120K,1,200301,2 wtorek
+BHC,96-321,Siestrzeń,Objazdowa,26,L-1100K,1,200301,2 i 4 piątek
+BHC,05-555,Tarczyn,Rynek,14,L-240T,1,150102,1 i 3 środa
+BRC,96-300,Żyrardów,Stanisława Moniuszki,33,L-1100T,1,150106,1 poniedziałek
+BHC,05-090,Wypędy,Sokołowska,18,L-240P,1,150101,4 czwartek
+BWC,,Gołków,ul. Zielona,31,L-1100K,1,200301,co tydzień poniedziałek
+BRB,05-825,Kozerki,Gen. Orlicz-Dreszera,19,L-1100K,1,200301,co tydzień czwartek
+BRA,05-822,Milanówek,Królewska,27,L-1100T,1,150102,co tydzień poniedziałek
+BWB,05-090,Raszyn,Słowikowskiego,21,L-1100K,1,200301,1 i 3 wtorek
+BWC,05-552,Łazy,ALEJA KRAKOWSKA,22,L-240K,1,200301,1 i 3 środa
+BWB,05-500 ,Piaseczno,Saperów,9,UP-7T,1,150102, - - - - - - -
+BWC,02-219,Warszawa,Janowskiego,20,L-1100P,1,150101,1 i 3 piątek
+BHC,05-831,Młochów,Mazowiecka,6,L-1100K,1,200301,1 i 3 piątek
+BRC,05-825,Grodzisk Mazowiecki,Sienkiewicza,33,L-240K,1,200301,2 i 4 czwartek
+BWB,02-945,Warszawa,Posag 7 Panien,18,L-1100K,1,200301,co tydzień czwartek
+BWC,02-486,Warszawa,Al. Jerozolimskie,22,L-1100P,1,150101,co tydzień czwartek
+BRA,96-300,Żyrardów,Mickiewicza,22,L-1100K,1,200301,co tydzień poniedziałek
+BWC,05-500 ,Piaseczno,Jana Pawła II,9,L-1100K,1,200301,1 i 3 poniedziałek
+BHB,05-830,Kajetany,Klonowa,9,UP-7K,1,200301,2 i 4 poniedziałek
+BRB,05-830,Stara Wieś,Grodziska,13,L-120S,1,150107,1 i 3 piątek
+BWC,02-829,Warszawa,Taneczna,28,L-1100T,1,150102,co tydzień piątek
+BWA,02-384,Warszawa,Włodarzewska,27,L-1100K,1,200301,poniedziałek czwartek sobota
+BRB,96-321,Siestrzeń,Żelechowska,14,L-1100P,1,150101,2 i 4 środa
+PH,05-816,Reguły,Aleja Powstańców Warszawy,7,L-1100T,1,150102,co tydzień poniedziałek
+BWB,02-676,Warszawa,Domaniewska,9,L-1100K,1,200301,wtorek piątek
+BHC,05-806,Pęcice,Parkowa,25,L-240K,1,200301,2 i 4 piątek
+BWC,05-500 ,Piaseczno,Rejtana,12,L-240K,1,200301,1 i 3 poniedziałek
+BWB,02-219,Warszawa,Al. Krakowska,22,L-1100P,1,150101,poniedziałek czwartek
+BRB,96-325,Radziejowice,Mszczonowska,28,L-1100K,1,200301,co tydzień środa
+BRB,02-149,Warszawa,Hynka,32,L-240B,1,200108,co tydzień wtorek
+BRAB,96-321,Słubica A,Zarzeczna,19,L-1100K,1,200301,2 i 4 piątek
+BRA,05-825,Janinów,Norweska,17,L-1100K,1,200301,poniedziałek czwartek
+BWC,02-255,Warszawa,Krakowiaków,9,L-240T,1,150102,2 i 4 piątek
+BHB,05-830,Nadarzyn,Pl. Poniatowskiego,26,L-120B,1,200201,co tydzień piątek
+BRB,05-825,Grodzisk Mazowiecki,Nadarzyńska,26,L-1100K,1,200301,co tydzień wtorek
+BRA,96-314,Baranów,Południowa,14,L-1100T,1,150102,poniedziałek czwartek
+BWC,05-500 ,Piaseczno,Kościuszki,17,L-120K,1,200301,3 poniedziałek
+BWA,02-497,Warszawa,AL.Jerozolimskie,8,L-1100K,1,200301,poniedziałek wtorek środa czwartek piątek
+BWB,00-791,Warszawa,Słoneczna,16,L-240S,1,150107,1 i 3 środa
+BRC,05-825,Grodzisk Mazowiecki,Składowa,33,L-120K,1,200301,2 i 4 czwartek
+BHB,05-830,Urzut,Al. Katowicka,14,L-1100T,1,150106,1 i 3 wtorek
+BWC,02-634,Warszawa,Racławicka,18,L-240K,1,200301,poniedziałek czwartek
+BRC,96-320,Grabce-Towarzystwo,Żukowska,34,L-1100K,1,200301,co tydzień środa
+BWB,05-500,Piaseczno,Puławska,15,L-1100P,1,150101,1 i 3 piątek
+BRB,05-870,Błonie,Sochaczewska,31,UP-7K,1,200301,co tydzień środa
+PW,05-090,Raszyn,Sportowa,29,L-1100K,1,200301,co tydzień wtorek
+BWC,05-500 ,Piaseczno,Staszica,26,L-120S,1,150107,2 i 4 czwartek
+BWC,05-500 ,Piaseczno,Julianowska,21,L-240K,1,200301,co tydzień poniedziałek
+BWC,05-090,Jaworowa,Warszawska,8,L-240T,1,150102,1 i 3 środa
+BHC,05-555,Tarczyn,Niecała,23,L-240T,1,150106,2 środa
+BWB,05-500 ,Piaseczno,Geodetów,26,L-1100P,1,150101,4 piątek
+BRC,05-827,Grodzisk Mazowiecki,Bairda,17,L-240K,1,200301,1 i 3 czwartek
+BHA,05-831,Rozalin,Kostowiec,28,L-240K,1,200301,1 i 3 piątek
+BRA,96-325,Radziejowice Parcel,Boczna,15,L-120K,1,200301,1 i 3 środa
+BRA,05-870,Błonie,Kopytów,20,L-240S,1,150107,1 i 3 poniedziałek
+BHC,,Kajetany,Miedziana,12,L-1100T,1,150102,2 i 4 piątek
+BHB,05-831,Parole,Szeroka,23,L-1100K,1,200301,co tydzień piątek
+BRC,96-300,Żyrardów,Stefana Żeromskiego,25,L-120P,1,150101,1 piątek
+BWC,,Rybie,Spokojna,26,L-120S,1,150107,1 piątek
+BRC,05-825,Grodzisk Mazowiecki,Traugutta,32,L-240K,1,200301,1 i 3 czwartek
+BWA,02-246,Warszawa,Geologiczna,31,L-1100P,1,150101,poniedziałek czwartek
+BHB,05-830,Rusiec,Al.Katowicka,32,UP-5.T,1,150102,1 i 3 poniedziałek
+BHB,05-800,Pruszków,Topolowa,5,L-1100K,1,200301,co tydzień czwartek
+BWC,05-500,Nowa Wola,Orna,15,L-240K,1,200301,1 środa
+BWC,05-500 ,Piaseczno,Aleja Lipowa,20,L-240P,1,150101,1 i 3 piątek
+BRB,05-825,Grodzisk Mazowiecki,M. Langiewicza,32,L-240P,1,150101,1 i 3 piątek
+BHC,05-090,Janki,Wspólna,21,L-1100P,1,150101,3 czwartek
+BWA,00-847,Warszawa,Towarowa,24,L-120B,1,200201,co tydzień czwartek
+BWC,05-500 ,Piaseczno,Okulickiego,33,L-240T,1,150102,co tydzień środa
+BRB,05-825,Janinów,Radziejowicka,23,L-1100K,1,200301,1 i 3 czwartek
+BRB,05-825,Książenice,Młodości,33,L-1100K,1,200301,co tydzień czwartek
+BRA,05-825,Odrano-Wola,Osowiecka,32,L-1100P,1,150101,2 i 4 piątek
+BRA,05-825,Grodzisk Mazowiecki,Chrzanowska,22,L-1100B,1,200201,co tydzień czwartek
+BHC,96-321,Przeszkoda,Inwestycyjna,32,L-1100K,1,200301,
+BRA,05-825,Grodzisk Mazowiecki,Graniczna,11,UP-7T,1,150102,poniedziałek czwartek
+BWC,05-500,Siedliska,Mostowa,16,L-700K,1,200301,2 i 4 poniedziałek
+BHB,96-321,Huta Żabiowolska,Przy Trasie,12,L-1100K,1,200301,co tydzień piątek
+BRB,05-825,Grodzisk Mazowiecki,Henryka Sienkiewicza,21,L-1100T,1,150106,2 i 4 czwartek
+BWC,05-090,Dawidy Bankowe,Starzyńskiego,30,L-120B,1,200108,3 wtorek
+BWC,05-500,Chylice,Sielska,15,L-240T,1,150102,co tydzień środa
+BRA,96-320,Badowo-Mściska,Grójecka,14,L-240S,1,200102,2 i 4 poniedziałek
+BWB,05-500 ,Piaseczno,Orężna,25,L-1100K,1,200301,2 i 4 poniedziałek
+BWC,05-520,Konstancin-Jeziorna,Źródlana,10,L-770K,1,200301,co tydzień poniedziałek
+BHA,05-850,Jawczyce,Sadowa,16,L-1100K,1,200301,co tydzień środa
+BWC,02-495,Warszawa,Dyrekcyjna / Silnikowa,9,L-240P,1,150101,2 i 4 poniedziałek
+BWC,05-506,Władysławów,Żwirowa,26,L-120T,1,150102,2 i 4 środa
+BRB,05-850,Bronisze,Piastowska,23,L-1100T,1,150102,co tydzień poniedziałek
+BRA,96-300,Żyrardów,Skrowaczewskiego,20,L-1100T,1,150102,co tydzień poniedziałek
+BRC,05-870,Radonice,Radonice,8,L-1100K,1,200301,co tydzień środa
+BHB,05-831,Parole,Olesińska,8,L-120K,1,200301,2 i 4 piątek
+BRC,05-825,Grodzisk Mazowiecki,1 Maja,30,L-1100K,1,200301,2 i 4 czwartek
+BHC,05-800,Brwinów,Kościelna,28,L-1100P,1,150101,1 i 3 wtorek
+BWA,02-239,Warszawa,Leonidasa,15,L-1100T,1,150102,co tydzień piątek
+BWB,05-090,Raszyn,Al.Krakowska,5,L-1100P,1,150101,co tydzień czwartek
+BHC,05-555,Wola Przypkowska,Piękna,12,L-1100K,1,200301,2 i 4 środa
+BRA,05-870,Błonie,Pass,20,UP-7K,1,200301,1 i 3 środa
+BWC,,Warszawa,Maryli,31,L-240P,1,150101,1 piątek
+BRA,96-300,Wręcza,Nowy Świat,26,L-1100P,1,150101,co tydzień środa
+BWB,05-540,Zalesie Górne,Pionierów,25,L-240S,1,150107,1 i 3 czwartek
+BWB,02-971,Warszawa,Przekorna,20,L-1100P,1,150101,1 i 3 piątek
+BHC,05-840,Brwinów,Lilpopa,24,L-1100K,1,200301,1 i 3 czwartek
+BRC,96-300,Słabomierz,Żyrardowska,24,L-1100K,1,200301,2 i 4 środa
+BHC,05-830,Szamoty,Orłów,29,L-1100K,1,200301,2 i 4 piątek
+BRC,05-825,Grodzisk Mazowiecki,Daleka,21,L-120S,1,150107,2 i 4 poniedziałek
+BWC,05-552,Mroków,Szkolna,16,L-1100T,1,150102,2 czwartek
+BWA,02-777,Warszawa,Al. Ken,12,L-1100P,1,150101,co tydzień piątek
+PR,05-820,Piastów,Popiełuszki,17,L-120P,1,150101, - W - - - - - 4
+BWC,05-500 ,Piaseczno,Redutowa,7,L-240P,1,150101,3 piątek
+BRC,05-825,Grodzisk Mazowiecki,Limanowskiego,8,L-240T,1,150102,2 i 4 czwartek
+BRB,96-313,Jaktorów,Chełmońskiego,6,L-1100P,1,150101,2 i 4 piątek
+BHB,05-552,Walendów,Nad Utratą,32,L-1100T,1,150102,2 i 4 piątek
+BWA,00-854,Warszawa,Aleja Jana Pawła II,34,L-120B,1,200108, - - - - - - -
+PR,96-321,Żabia Wola,Główna,27,L-1100K,1,200301,1 i 3 piątek
+BHC,05-840,Domaniewek,Starego Browarnika,21,L-1100K,1,200301,4 czwartek
+BHB,05-800,Pruszków,Szpitalna,9,L-1100P,1,150101,2 i 4 wtorek
+BRC,05-825,Grodzisk Mazowiecki,Spółdzielcza,16,L-240K,1,200301,2 czwartek
+BWC,05-816,Michałowice,Lotnicza,20,L-120K,1,200301,2 i 4 piątek
+PH,05-816,Reguły,Kuchy,23,L-660P,1,150101,co tydzień wtorek
+BRB,96-300,Żyrardów,Okrzei,23,L-240T,1,150102,2 i 4 poniedziałek
+BRC,96-325,Kuklówka Zarzeczna,Józefa Chełmońskiego,19,L-120T,1,150102,2 i 4 poniedziałek
+BWB,03-301,Warszawa,Jagiellońska,33,L-1100K,1,200301,co tydzień środa
+BHB,05-800,Pruszków,3-go maja,24,L-1100P,1,150101,co tydzień wtorek
+BHB,05-816,Michałowice,Ogrodowa,28,L-1100K,1,200301,co tydzień piątek
+BHA,05-819,Piastów,Noakowskiego,23,L-1100K,1,200301,2 i 4 czwartek
+BRA,96-320 ,Mszczonów,Pogorzałki,20,L-1100K,1,200301,co tydzień piątek
+PR,05-825,Grodzisk Mazowiecki,Bartniaka,14,L-1100K,1,200301,poniedziałek czwartek
+BHC,05-830,Walendów,Pąsowej Róży,32,L-120K,1,200301,4 piątek
+BHC,05-850,Ożarów Mazowiecki,Kamińskiego,17,L-120S,1,150107,3 piątek
+BWC,05-504,Henryków-Urocze,Mokra,32,L-1100K,1,200301,1 środa
+BWC,05-552,Wólka Kosowska,Gruszkowa,19,L-1100K,1,200301,co tydzień piątek
+BWC,05-500 ,Piaseczno,Energetyczna,13,L-120T,1,150102,1 i 3 środa
+BHB,05-840,Koszajec,Św. Józefa,11,L-1100K,1,200301,wtorek czwartek
+BRC,96-316 ,Międzyborów,Międzyborów,32,"UP-2,5K",1,200301, - - - - - - -
+BWB,05-500 ,Piaseczno,Pod Bateriami,18,L-240K,1,200301,co tydzień poniedziałek
+BWA,02-972,Warszawa,Aleja Rzeczypospolitej,33,L-1100K,1,200301,poniedziałek czwartek sobota
+BRB,05-825,Kozery,Ukośna,12,L-1100K,1,200301,2 i 4 czwartek
+BHC,05-830,Nadarzyn,Pruszkowska,15,L-240K,1,200301,1 i 3 piątek
+BWB,02-231,Warszawa,Jutrzenki,7,L-1100K,1,200301,co tydzień wtorek
+BWC,05-506,Wilcza Góra,Gwiaździsta,6,L-1100T,1,150106,1 i 3 środa
+BWC,05-500 ,Piaseczno,Czajewicza,30,L-120T,1,150102,2 środa
+BRC,05-825,Grodzisk Mazowiecki,11-go Listopada,9,L-1100K,1,200301,co tydzień czwartek
+BRC,96-300,Żyrardów,Jałowcowa,25,L-120K,1,200301,2 poniedziałek
+BWC,02-495,Warszawa,Mariana Keniga,23,L-120K,1,200301,1 i 3 czwartek
+BWB,05-506,Konstancin-Jeziorna,Przyrzecze,7,L-1100P,1,150101,1 i 3 piątek
+BHB,05-825,Grodzisk Mazowiecki,Plantowa,23,L-240K,1,200301,1 i 3 czwartek
+BRC,05-825,Grodzisk Mazowiecki,Langiewicza,29,L-1100K,1,200301,co tydzień czwartek
+BHC,05-830,Nadarzyn,Pl.Poniatowskiego,15,L-1100P,1,150101,2 i 4 piątek
+BHA,05-816,Michałowice,Jesionowa,26,L-1100K,1,200301,co tydzień piątek
+BWB,05-506,Janczewice,Jedności,24,L-120K,1,200301,1 poniedziałek
+BRB,05-825,Kozerki,Merkurego,20,L-1100K,1,200301,2 i 4 czwartek
+BHC,05-830,Wolica,Św. Piotra I Pawła,7,L-120T,1,150102,2 i 4 czwartek
+BWC,05-552,Jabłonowo,Nadrzeczna,5,L-1100P,1,150101,2 i 4 środa
+BHA,05-806,Sokołów,Sąsiedzka,24,L-1100K,1,200301,1 i 3 piątek
+BWC,05-500,Nowa Iwiczna,Niezapominajki,32,L-240K,1,200301,co tydzień środa
+BHB,,Wólka Kosowska,Wesoła,25,UP-5.P,1,150101,1 i 3 środa
+BRB,05-870,Błonie,Os.Pass,27,L-1100P,1,150101,co tydzień wtorek
+BHC,05-850,Duchnice,Ożarowska,27,L-1100T,1,150102,2 i 4 poniedziałek
+BWB,01-702,Warszawa,Płaskowickiej,15,L-1100T,1,150102,co tydzień wtorek
+BHC,05-840,Biskupice,Biskupicka,33,L-240K,1,200301,1 i 3 czwartek
+BHA,05-800,Piastów,Kasprowicza,26,L-120P,1,150101,3 wtorek
+BWC,05-500 ,Piaseczno,Orzechowa,20,L-1100K,1,200301,co tydzień poniedziałek
+BWC,05-800,Pruszków,Andrzeja,14,L-1100K,1,200301,co tydzień czwartek
+BHC,,Pilaszków,Nowowiejska,11,L-1100K,1,200301,co tydzień wtorek
+BHC,05-807,Podkowa Leśna,Jodłowa,21,L-240T,1,150102,co tydzień poniedziałek
+BHC,05-806 ,Komorów,Jana Zamoyskiego,29,L-120T,1,150102,1 i 3 poniedziałek
+BWC,02-496,Warszawa,Orłów Piastowskich,23,L-120S,1,150107,1 i 3 środa
+BWA,02-134,Warszawa,1 Sierpnia,18,L-240S,1,150107,2 i 4 środa
+BRC,96-300,Żyrardów,Lniarska,5,L-120P,1,150101,2 i 4 piątek
+BHA,05-825,Urszulin,Urszulin,30,L-1100T,1,150102,1 i 3 wtorek
+BHC,05-830,Nadarzyn,Żółwińska,32,L-1100T,1,150106,co tydzień poniedziałek
+BWB,05-503,Głosków,Radnych,20,L-1100K,1,200301,3 poniedziałek
+BWA,01-267,Warszawa,Jana Kazimierza,18,L-1100K,1,200301,poniedziałek środa piątek
+BRA,05-825,Urszulin,Legionistów,33,L-240B,1,200108,poniedziałek środa piątek
+BWA,01-755,Warszawa,Krasińskiego,13,L-120S,1,150107,2 środa
+BRC,05-505,Błonie,Bieniewicka,14,UP-7P,1,150101,2 i 4 piątek
+BHA,05-830,Wolica,Sękocińska,24,UP-5.T,1,150102,2 i 4 środa
+BWA,02-826,Warszawa,Poloneza,27,L-240B,1,200108,2 i 4 poniedziałek
+BWC,05-500 ,Piaseczno,Wołodyjowskiego,34,L-240K,1,200301,1 i 3 poniedziałek
+BHB,05-860,Święcice,Zaborowska,20,UP-5.K,1,200301,2 i 4 wtorek
+BWC,05-500,Mysiadło,Słowicza,31,L-240K,1,200301,2 i 4 środa
+BHC,05-806 ,Komorów,Jana Matejki,11,L-1100S,1,150107,1 i 3 środa
+BWB,01-476,Warszawa,Sylwestra Kaliskiego,33,L-1100K,1,200301,1 i 3 środa
+BRC,05-825,Książenice,Marylskiego,16,L-1100P,1,150101,co tydzień środa
+BWA,03-226,Warszawa- Targówek,Toruńska,29,L-120S,1,150107,3 środa
+BHC,05-830,Kajetany,Brzozowa,18,L-240T,1,150102,co tydzień piątek
+BRC,96-300,Żyrardów,Jana Kilińskiego,15,L-120T,1,150106,2 poniedziałek
+BRB,05-825,Grodzisk Mazowiecki,Rzemieślnicza,22,L-120S,1,150107,co tydzień poniedziałek
+BWC,05-540,Zalesie Górne,Wczasowa,28,L-120P,1,150101,1 i 3 piątek
+BWC,,Piaseczno,Młynarska,24,L-120P,1,150101,co tydzień piątek
+BRC,05-825,Grodzisk Mazowiecki,H. Sienkiewicza,14,L-120T,1,150106,4 czwartek
+BWC,05-816,Michałowice Wieś,Pałacowa,21,L-120S,1,150107,4 piątek
+BWB,02-952,Warszawa,Wiertnicza,8,L-1100K,1,200301,1 i 3 poniedziałek
+BRB,96-313,Chylice-Kolonia,3 Maja,24,L-1100P,1,150101,co tydzień piątek
+BHC,05-850,Ożarów Mazowiecki,Floriana,6,L-120K,1,200301,co tydzień wtorek
+BHA,05-825,Książenice,Al. Sadowa,15,UP-5.K,1,200301,1 i 3 poniedziałek
+BWC,05-090,Raszyn,Krótka,30,L-120S,1,150107,1 piątek
+BWC,05-506,Kolonia Lesznowola,Postępu,21,L-1100K,1,200301,co tydzień środa
+BWC,05-552,Łazy,Łączności,33,L-1100K,1,40209,1 i 3 środa
+BWC,02-868,Warszawa,Sarabandy,24,L-120K,1,200301,co tydzień poniedziałek
+BRA,05-825,Grodzisk Mazowiecki,Gen. Orlicz Dreszera,33,L-1100K,1,200301,co tydzień czwartek
+BRA,96-314,Baranów,Północna,24,L-1100K,1,200301,poniedziałek środa piątek
+BRA,96-320 ,Mszczonów,Keramzytowa,20,L-120B,1,200201,1 i 3 środa
+BRB,05-825,Książenice,al. Jarzębinowa,13,L-1100T,1,150106,2 i 4 poniedziałek
+BRC,05-825,Grodzisk Mazowiecki,Okrężna,34,L-1100T,1,150102,1 i 3 czwartek
+BRC,05-825,Grodzisk Mazowiecki,J. Kilińskiego,24,L-120T,1,150102,1 i 3 czwartek
+BWC,05-503,Wola Gołkowska,Piesza,30,L-1100K,1,200301,2 i 4 poniedziałek
+BHB,96-321,Żabia Wola,Przejazdowa,14,L-120B,1,200108,2 i 4 piątek
+BHA,05-831,Młochów,Al. Kasztanowa,6,UP-7K,1,200301,wtorek piątek
+BRA,96-315,Wiskitki,Guzowska,15,L-1100T,1,150102,co tydzień poniedziałek
+BHC,05-090,Raszyn,Emaliowa,11,L-240T,1,150102,2 i 4 piątek
+BWC,02-495,Warszawa,Kazimierza Gierdziejewskiego,7,L-1100K,1,200301,co tydzień czwartek
+BRB,05-825,Adamowizna,Niedźwiedzia,13,L-1100K,1,200301,co tydzień czwartek
+PH,05-831,Młochów,Ks.Bronisława Markiewicza,5,L-1100K,1,200301,co tydzień piątek
+BWA,05-500 ,Piaseczno,Wojska Polskiego,13,L-1100T,1,150102,4 środa
+BWC,00-507,Warszawa,Bokserska,25,UP-7K,1,200301,co tydzień poniedziałek
+BHC,05-830,Rusiec,Osiedlowa,6,L-1100K,1,200301,co tydzień poniedziałek
+BHC,05-830,Wolica,Długa,32,L-120K,1,200301,2 i 4 piątek
+BWB,00-021,Warszawa,Chmielna,10,L-1100K,1,200301,poniedziałek środa piątek
+BHB,05-830,Nadarzyn,Komorowska,8,L-1100K,1,200301,co tydzień piątek
+BWA,00-215,Warszawa,Dolańskiego,12,L-240T,1,200139,2 i 4 wtorek
+BRC,05-825,Grodzisk Mazowiecki,Kresowa,8,L-240K,1,200301,2 i 4 piątek
+PR,05-800,Pruszków,Kraszewskiego,29,L-120S,1,150107,4 piątek
+BWB,02-235,Warszawa,Równoległa,8,L-1100T,1,150106,co tydzień piątek
+BRC,05-825,Grodzisk Mazowiecki,Bałtycka,23,L-1100P,1,150101,2 i 4 piątek
+BWC,05-501,Piaseczno,Norwida,7,L-770K,1,200301,1 poniedziałek
+BWC,02-822,Warszawa,Poleczki,13,L-240B,1,200108,2 i 4 poniedziałek
+BHA,05-830,Nadarzyn,Błońska,9,L-1100K,1,200301,1 i 3 piątek
+BRA,96-300,Żyrardów,Jaktorowska,32,L-1100T,1,150106,co tydzień poniedziałek
+BHC,05-830,Wolica,Zielona,18,L-1100K,1,200301,1 i 3 piątek
+BHC,05-850,Ożarów Mazowiecki,Nadbrzeżna,20,L-1100K,1,200301,co tydzień wtorek
+BHB,05-840,Brwinów,Moszna Parcela,14,L-1100T,1,150102,2 i 4 poniedziałek
+BWC,02-164,Warszawa,Canaletta,33,L-1100K,1,200301,co tydzień środa
+BHC,05-830,Stara Wieś,Sygietyńskich,6,L-240K,1,200301,2 i 4 piątek
+BWA,00-535,Warszawa,Bolesława Prusa,31,L-120B,1,200108, - - - - - - -
+UP,05-830,Nadarzyn,Bukowa,15,L-700K,1,150101,1 czwartek
+BHC,05-090,Wypędy,Kwietniowa,10,L-1100K,1,200301,2 i 4 wtorek
+BWC,02-196 ,Warszawa,Popas,28,L-1100K,1,200301,2 i 4 wtorek
+BHC,05-555,Kotorydz,Piaseczyńska,27,L-240B,1,200108,2 i 4 środa
+BWC,02-261,Warszawa,Robotnicza,23,L-240T,1,150102,2 i 4 piątek
+BRC,05-825,Grodzisk Mazowiecki,Rusałki,24,L-240T,1,150106,1 czwartek
+BWC,05-540,Zalesie Górne,Młodych Wilcząt,20,L-770K,1,200301,co tydzień poniedziałek
+BHC,05-831,Rozalin,Kawalerska,28,L-120T,1,150102,2 i 4 czwartek
+BHC,05-830,Wolica,Centralna,30,L-240T,1,150102,4 piątek
+BWA,01-014,Warszawa,Żytnia,13,L-1100K,1,200301,poniedziałek wtorek czwartek piątek
+BWC,05-502,Gołków,Pułku 4 Ułanów,18,L-120K,1,200301,1 poniedziałek
+BWA,02-025,Warszawa,Plac Zawiszy,5,L-120B,2,200108, P - - C - - - 1 2 3 4 5 O
+BRC,96-300,Żyrardów,Kasztanowa,32,UP-5.K,1,200301,4 piątek
+BHB,05-805,Otrębusy,Świerkowa,21,L-1100K,1,200301,co tydzień czwartek
+BWA,02-665,Warszawa,Al. Wilanowska,21,L-1100K,1,200301,poniedziałek czwartek sobota
+BWC,05-503,Antoninów,Masztowa,20,L-1100K,1,200301,1 i 3 środa
+BWA,00-728,Warszawa,Bobrowiecka,11,L-1100T,1,150102,co tydzień wtorek
+BHC,05-830,Kajetany,Rolna,6,L-1100T,1,150102,co tydzień piątek
+BWC,05-502,Gołków,Gołkowska,19,L-120K,1,200301,2 i 4 poniedziałek
+BHC,05-831,Rozalin,Młochowska,25,L-120K,1,200301,2 i 4 piątek
+BHA,05-090,Sękocin Stary,Logistyczna,17,L-1100P,1,150101,co tydzień czwartek
+BWB,02-182,Warszawa,Ruchliwa,27,L-1100T,1,150102,co tydzień piątek
+BWB,05-540,Zalesie Górne,Szmaragdowych Żuków,18,L-120P,1,150101,1 i 3 piątek
+BRAB,05-825,Natolin,Chemiczna,25,L-120S,1,150107,4 poniedziałek
+BWC,05-816,Piastów,Wysockiego,31,L-1100P,1,150101,2 i 4 poniedziałek
+BWC,05-504,Henryków-Urocze,Polna,30,L-1100T,1,150102,2 i 4 środa
+BWC,05-500,Nowa Iwiczna,Krasickiego,29,L-240K,1,200301,2 środa
+BRC,05-825,Kozerki,Wenus,23,L-120T,1,150102,1 i 3 czwartek
+BRC,05-822,Milanówek,Konopnickiej,26,L-240P,1,150101,1 i 3 wtorek
+BHC,05-830,Urzut,Jesienna,12,L-240S,1,200102,3 piątek
+BHB,05-552,Mroków,M. Świątkiewicz,27,UP-7P,1,150101,1 i 3 środa
+BWC,05-090,Raszyn,Jaworskiego,30,L-1100K,1,200301,1 i 3 wtorek
+BWB,02-507,Warszawa,Gniewkowska,27,L-240K,1,200301,2 czwartek
+BRC,05-825,Grodzisk Mazowiecki,Kilińskiego,21,L-120K,1,200301,1 i 3 czwartek
+BHA,05-850 ,Ołtarzew,Ceramiczna,20,L-120B,1,200108,1 i 3 czwartek
+BRC,05-825,Natolin,Natolin,20,L-240K,1,200301,1 i 3 czwartek
+BRC,05-825,Grodzisk Mazowiecki,Słowackiego,32,L-1100T,1,150102,2 i 4 czwartek
+BWB,05-504,Runów,Runowska,11,L-240S,1,150107,3 czwartek
+BHC,05-840,Brwinów,Dworska,17,L-120K,1,200301,2 i 4 czwartek
+BRC,05-825,Grodzisk Mazowiecki,Żeromskiego,21,L-1100K,1,200301,2 i 4 czwartek
+BHC,05-850,Ożarów Mazowiecki,Strzykulska,23,L-1100T,1,150102,2 i 4 wtorek
+BWB,02-661,Warszawa,Wita Stwosza,15,L-120B,1,200108,1 i 3 czwartek
+BWB,02-691,Warszawa,Obrzeżna,24,L-240S,1,150107,co tydzień środa
+BRA,96-315,Wiskitki,Kulinarna,8,L-240B,1,200108,2 i 4 piątek
+BHC,96-321,Jastrzębnik,Cicha,26,L-120T,1,150106,3 poniedziałek
+BHC,05-830,Nadarzyn,Zarzewie,26,L-120T,1,200139,3 wtorek
+BHC,05-840,Brwinów,Peronowa,22,L-1100P,1,150101,2 wtorek
+BHC,05-830,Nadarzyn,Wiśniowa,13,L-1100K,1,200301,2 i 4 piątek
+BWC,02-445,Warszawa,Parowcowa,25,L-240T,1,150102,2 i 4 wtorek
+BWC,05-090,Raszyn,Al.Hrabska,22,L-770K,1,200301,1 wtorek
+BWA,05-552,Wólka Kosowska,Marii Świątkiewicz,34,L-1100K,1,200301,wtorek piątek
+BWC,02-867,Warszawa,Baletowa,17,L-120B,1,200108,1 i 3 poniedziałek
+BWA,00-844,Warszawa,Grzybowska,10,L-1100K,1,200301,co tydzień czwartek
+BHC,96-321,Lisówek,Iglasta,18,L-120K,1,200301,1 i 3 piątek
+BWC,05-500,Stara Iwiczna,Mleczarska,14,L-240K,1,200301,2 i 4 środa
+BWB,05-532,Baniocha,Łubna,17,L-120B,1,200108,4 poniedziałek
+BWC,05-500 ,Piaseczno,Żeglińskiego,7,L-700K,1,200301,co tydzień poniedziałek
+BRA,05-825,Grodzisk Mazowiecki,Transportowa,23,L-120P,1,150101,1 i 3 piątek
+BRB,05-825,Kozerki,Jowisza,31,L-1100K,1,200301,2 i 4 czwartek
+BWA,02-220,Warszawa,Łopuszańska,9,UP-7P,1,150101,co tydzień czwartek
+BHC,05-830,Walendów,Słonecznej Polany,19,L-1100B,1,200201,2 i 4 piątek
+BRC,05-825,Grodzisk Mazowiecki,Plac Wolności,16,L-240K,1,200301,2 i 4 czwartek
+BHB,05-830,Kajetany,Orla,34,L-1100K,1,200301,co tydzień piątek
+BRC,05-825,Grodzisk Mazowiecki,Obrońców Getta,5,L-240K,1,200301,2 i 4 czwartek
+BHC,05-830,Urzut,Malownicza,10,L-120K,1,200301,2 i 4 piątek
+BWC,05-090,Raszyn,Drukarska,15,L-1100K,1,200301,2 i 4 wtorek
+BWC,02-785,Warszawa,Surowieckiego,6,L-120P,1,150101,4 poniedziałek
+BHC,05-840,Brwinów,Armii Krajowej,18,L-240K,1,200301,1 i 3 czwartek
+BRA,96-320,Mszczonów,Tarczyńska,20,L-1100P,1,150101,3 środa
+BHC,05-090,Sękocin Stary,ul. Mszczonowska,10,L-120K,1,200301,1 i 3 wtorek
+BWA,02-676,Warszawa,Suwak,12,L-1100P,1,150101,poniedziałek środa
+BWC,02-273 ,Warszawa,Muszkieterów,15,L-1100P,1,150101,co tydzień czwartek
+BWB,00-722,Warszawa,Podchorążych,28,L-120S,1,150107,co tydzień środa
+BRC,05-825,Grodzisk Mazowiecki,Orzeszkowej,17,L-240K,1,200301,1 i 3 czwartek
+BWA,05-500,Piaseczno,Al.Jana Pawła II,20,UP-5.K,1,200301,co tydzień poniedziałek
+BRB,96-316,Henryszew,ul. Reymonta,10,L-1100P,1,150101,2 piątek
+BWC,02-784,Warszawa,Dembowskiego,17,L-120K,1,200301,4 czwartek
+BRC,05-825,Grodzisk Mazowiecki,E. Orzeszkowej,17,L-240K,1,200301,co tydzień czwartek
+BRB,96-300,Żyrardów,Dittricha,23,L-1100P,1,150101,4 piątek
+BWB,01-703,Warszawa,Gąbińska,34,L-1100P,1,150101,co tydzień poniedziałek
+BWC,05-520,Bielawa,Lipowa,24,L-120P,1,150101,3 piątek
+BWC,02-785,Warszawa,Puszczyka,29,L-700K,1,200301,1 i 3 poniedziałek
+BHC,05-090,Wypędy,Zdrojowa,19,L-1100K,1,200301,2 i 4 wtorek
+BWC,05-532,Baniocha,Solec,6,L-1100K,1,200301,co tydzień poniedziałek
+BWB,05-500 ,Piaseczno,Kwiatów Polskich,18,L-240P,1,150101,4 piątek
+BRC,05-825,Kłudzienko,Kłudzienko,15,L-1100K,1,200301,1 i 3 czwartek
+BHB,05-555,Tarczyn,Pogodna,21,L-120B,1,200108,1 i 3 poniedziałek
+BRA,05-500,Stara Iwiczna,Nowa,30,UP-7T,1,150106,poniedziałek środa
+BHC,05-830,Nadarzyn,Turystyczna,12,L-120K,1,200301,2 i 4 piątek
+BRC,96-300,Żyrardów,Sikorskiego,13,L-1100P,1,150101,2 i 4 piątek
+BWC,05-552,Kolonia Warszawska,Aleja Krakowska,33,L-1100K,1,200301,2 i 4 poniedziałek
+BWB,00-054,Warszawa,Jasna,17,L-240T,1,200139,wtorek piątek
+BHC,05-816,Michałowice,al. Jerozolimskie,17,L-1100T,1,150102,2 i 4 piątek
+BWC,05-503,Mieszkowo,Malinowa,8,L-1100K,1,200301,2 środa
+BRC,05-825,Grodzisk Mazowiecki,Mokronowskich,14,L-1100P,1,200101,co tydzień piątek
+BWA,02-738,Warszawa,Dominikańska,28,L-1100T,1,150106,co tydzień piątek
+BHC,05-090,Sękocin Nowy,Leszczynowa,18,L-240K,1,200301,co tydzień wtorek
+BWC,02-785,Warszawa,Wiolinowa,25,L-1100K,1,200301,co tydzień czwartek
+BHC,96-321,Żelechów,Juliusza Kossaka,31,L-240P,1,150101,3 środa
+BWB,02-685,Warszawa,Rodziny Hiszpańskich,13,L-120B,1,200108,co tydzień poniedziałek
+BWC,05-506,Lesznowola,Salamandry,10,L-120P,1,150101,4 piątek
+BRB,02-507,Warszawa,Obywatelska,17,L-240T,1,150102,co tydzień poniedziałek
+BHC,05-850,Ożarów Mazowiecki,Romana Dmowskiego,33,L-120S,1,150107,3 piątek
+BHC,96-300,Żyrardów,Piotra Wysockiego,7,L-120K,1,200301,2 i 4 poniedziałek
+BWB,01-891,Warszawa,Staffa,7,L-240B,1,200201,co tydzień środa
+BRC,96-313,Chylice,Wojtkiewicza,33,L-120T,1,150106,2 czwartek
+BRB,96-325,Tartak Brzózki,Letniskowa,25,L-1100T,1,150102,co tydzień poniedziałek
+BHC,05-850,Jawczyce,Wspólna Droga,11,L-240T,1,150102,co tydzień poniedziałek
+BWC,05-500 ,Piaseczno,Powstańców Warszawy,13,L-240T,1,150102,2 środa
+BRC,96-316,Stare Budy,ul. Wąska,28,L-240K,1,200301,4 piątek
+BRB,05-825,Grodzisk Mazowiecki,Kopernika,31,L-240P,1,150101,co tydzień piątek
+BRB,96-300,Żyrardów,Bohaterów Warszawy,28,L-660K,1,200301,2 i 4 poniedziałek
+BHC,05-840,Brwinów,Kępińska,32,L-1100K,1,200301,1 i 3 czwartek
+BRB,96-321,Nowa Bukówka,Rumiankowa,11,L-1100K,1,200301,2 i 4 piątek
+BWB,02-786,Warszawa,W.B.Jastrzębowskiego,12,L-1100S,1,150107,2 i 4 czwartek
+BWC,05-540,Zalesie Górne,Środkowa,18,L-120P,1,150101,3 piątek
+BRC,96-300,Żyrardów,Ludwika Waryńskiego,22,L-1100K,1,200301,4 poniedziałek
+BRB,,Wymysłów,Katowicka,29,L-1100T,1,150106,2 i 4 poniedziałek
+BWB,02-495,Warszawa,Ryżowa,22,UP-5.T,1,150106,2 i 4 poniedziałek
+BWC,05-504,Henryków-Urocze,Urocza,33,L-120P,1,150101,4 środa
+BWA,00-252,Warszawa,Podwale,14,L-120T,1,200139,2 wtorek
+PH,05-830,Strzeniówka,Kwiatu Paproci,20,L-120K,1,200301,2 i 4 piątek
+BWB,05-500,Józefosław,Wilanowska,8,L-1100T,1,150102,co tydzień środa
+BHC,05-850,Ożarów Mazowiecki,Konotopska,10,L-1100K,1,200301,3 wtorek
+BRC,05-825,Książenice,Al. Brzozowa,28,L-240K,1,200301,1 i 3 piątek
+BWA,02-285 ,Warszawa,Szyszkowa,30,L-1100P,1,150101,poniedziałek czwartek
+PH,05-807,Podkowa Leśna,Akacjowa,25,L-240T,1,150102,2 i 4 poniedziałek
+BRC,96-320 ,Mszczonów,Księcia Ziemowita,27,L-1100K,1,200301,2 i 4 środa
+PR,05-807,Podkowa Leśna,Brwinowska,29,L-1100K,1,200301,3 czwartek
+PW,05-090,Raszyn,Poniatowskiego,16,L-120S,1,150107,1 piątek
+BHA,05-840,Brwinów,"Moszna, Parcela",26,L-240S,1,150107,co tydzień piątek
+BHC,05-830,Nadarzyn,Jaworowa,10,L-120K,1,200301,2 i 4 piątek
+BWB,02-226,Warszawa,Pryzmaty,19,L-1100P,1,150101,co tydzień czwartek
+BRC,05-822,Milanówek,Książenicka,23,L-240K,1,200301,1 i 3 środa
+BHC,05-805,Otrębusy,Krzywa,12,L-120P,1,150101,1 wtorek
+BRC,05-825,Grodzisk Mazowiecki,Plac Króla Zygmunta Starego,7,L-240K,1,200301,2 i 4 czwartek
+BHA,05-800,Pruszków,Promyka,27,L-120P,1,200101,1 i 3 wtorek
+BHC,05-090,Janki,Godebskiego,10,L-1100K,1,200301,2 i 4 wtorek
+BWC,05-500 ,Piaseczno,Raszyńska,18,L-120K,1,200301,2 i 4 poniedziałek
+BWC,,Konotopa,Fiołkowa,23,L-120T,1,150106,2 i 4 poniedziałek
+BHA,05-831,Młochów,Al.Kasztanowa,5,UP-7T,1,150106,co tydzień poniedziałek
+BWB,05-552,Łazy,Wąska,10,L-120P,1,150101,1 i 3 środa
+BRC,05-825,Chrzanów Duży,Chrzanów Duży,5,L-120K,1,200301,2 i 4 czwartek
+BRC,05-825,Grodzisk Mazowiecki,Żwirki i Wigury,26,L-1100P,1,150101,4 piątek
+BWC,05-028,Blizne Łaszczyńskiego,Serwisowa,14,L-1100T,1,150102,co tydzień poniedziałek
+BHC,05-806 ,Komorów,Marii Dabrowskiej,25,L-1100P,1,150101,co tydzień wtorek
+BRC,05-825,Grodzisk Mazowiecki,11-Go Listopada,30,L-1100K,1,200301,2 i 4 czwartek
+BHA,05-800,Pruszków,Parzniewska,12,L-120B,1,200201,2 i 4 czwartek
+BRC,96-300,Żyrardów,Al.Partyzantów,15,L-120P,1,150101,1 wtorek
+BHC,05-825 ,Milanówek,Dworcowa,28,L-240K,1,200301,1 i 3 czwartek
+BWB,00-465,Warszawa,29 Listopada,6,L-240S,1,150107,2 i 4 środa
+BWC,00-717,Warszawa,Czerniakowska,28,L-120K,1,200301,2 i 4 czwartek
+BWC,05-552,Łazy,Kwiatowa,9,L-240T,1,150102,1 i 3 środa
+BWC,05-090,Sokołów,Wacława,34,L-1100K,1,200301,2 i 4 piątek
+BRC,05-825,Grodzisk Mazowiecki,Montwiłła,6,L-240K,1,200301,2 czwartek
+BWB,05-500,Nowa Wola,Ignacego Krasickiego,31,L-1100P,1,150101,co tydzień piątek
+BRC,05-505,Błonie,Powstańców,30,L-240K,1,200301,1 i 3 środa
+BRB,96-300,Żyrardów,Czysta,5,L-1100P,1,150101,co tydzień piątek
+BWC,05-500 ,Piaseczno,Przesmyckiego,20,L-120P,1,150101,4 piątek
+BRC,96-300,Żyrardów,Janiny Jadwigi Kacperskiej,16,L-1100K,1,200301,3 poniedziałek
+PR,05-825 ,Milanówek,Literacka,20,L-120P,1,150101,4 wtorek
+BWC,05-090,Raszyn,Cienista,13,L-240K,1,200301,1 i 3 wtorek
+BWC,05-816,Reguły,Aleje Jerozolimskie,11,L-120S,1,200102,4 piątek
+BWC,05-500,Żabieniec,Asfaltowa,21,L-120T,1,150102,4 środa
+BWA,01-747,Warszawa,Powązkowska,17,L-1100K,1,200301,poniedziałek czwartek sobota
+BRC,05-825,Grodzisk Mazowiecki,Marii Konopnickiej,7,L-240K,1,200301,4 czwartek
+BRC,96-321,Wycinki Osowskie,Międzynarodowa,7,L-120P,1,150101,3 środa
+BHC,05-555,Komorniki,Leśna,21,L-240P,1,150101,4 środa
+BRA,05-820,Piastów,Regulska,32,UP-7K,1,200301,co tydzień czwartek
+BHC,05-830,Kostowiec,Przemysłowa,7,L-120K,1,200301,co tydzień piątek
+BWC,05-500,Łoziska,Fabryczna,19,L-120S,1,150107,1 i 3 czwartek
+BHA,05-082,Stare Babice,Kutrzeby,6,L-240K,1,200301,2 i 4 wtorek
+BWC,02-674 ,Warszawa,Marynarska,30,L-1100T,1,150106,4 wtorek
+BHB,05-807,Podkowa Leśna,Gołębia,9,L-1100K,1,200301,co tydzień czwartek
+BWA,05-504,Złotokłos,Andrzeja Boboli,27,L-1100S,1,150107,co tydzień czwartek
+BWC,05-552,Łazy,Ks. Kanonika H. Słojewskiego,24,L-1100K,1,200301,co tydzień środa
+BWB,05-552,Stefanowo,Ułanów,21,L-1100S,1,150107,1 i 3 piątek
+BRC,96-321,Grzymek,Spacerowa,26,L-240T,1,150106,1 i 3 poniedziałek
+BWC,05-500,Jazgarzew,Górna,29,L-240T,1,150106,2 i 4 środa
+BWC,05-090,Falenty Duże,Falencka,27,L-120B,1,200108,co tydzień wtorek
+BRC,05-825,Grodzisk Mazowiecki,Szczęsna,24,L-1100P,1,150101,1 i 3 piątek
+BWC,05-552,Łazy,Wiejska,11,L-1100P,1,150101,1 i 3 środa
+BRB,96-300,Żyrardów,Sienkiewicz,10,L-120P,1,150101,4 piątek
+BHC,05-850,Konotopa,Piwna,9,L-1100K,1,200301,co tydzień wtorek
+BHC,05-830,Nadarzyn,Kalinowa,19,L-120K,1,200301,1 i 3 piątek
+BWA,00-710,Warszawa,Idzikowskiego,17,L-240B,1,200108,co tydzień środa
+BWC,05-540,Zalesie Górne,Białej Brzozy,26,L-120S,1,150107,3 czwartek
+BRC,96-300,Żyrardów,Ossowskiego,34,L-120K,1,200301,2 i 4 piątek
+BWB,00-204,Warszawa,Słomińskiego,22,L-240S,1,150107,4 środa
+BHB,05-807,Kanie,Piłsudskiego,26,L-120P,1,150101,1 i 3 wtorek
+BRC,96-315,Wiskitki,Oryszew Osada,10,L-1100P,1,150101,2 i 4 wtorek
+BRB,96-321,Nowa Bukówka,Skulska,11,"UP-2,5P",1,150101,1 i 3 środa
+BWC,05-500,Józefosław,Działkowa,5,L-120S,1,150107,2 i 4 czwartek
+BWC,05-500 ,Piaseczno,Elektroniczna,24,L-1100K,1,200301,co tydzień poniedziałek
+BWC,05-552,Łazy,Muzyczna,12,L-120B,1,200108,2 i 4 środa
+BHA,05-825,Marynin,Partyzantów AK,24,L-1100K,1,200301,co tydzień piątek
+BHB,05-830,Stara Wieś,Tarniny,15,L-1100T,1,150106,co tydzień wtorek
+BRC,05-825,Grodzisk Mazowiecki,Stefana Batorego,21,L-1100T,1,150106,2 i 4 poniedziałek
+BHC,96-313,Kady,Dragońska,12,L-120K,1,200301,2 i 4 czwartek
+BHC,96-321,Żabia Wola,Ślaskiego,16,L-240K,1,200301,2 i 4 piątek
+BHB,05-831,Młochów,Ks. Bronisława Markiewicza,17,L-120T,1,150102,1 i 3 poniedziałek
+BHC,05-830,Nadarzyn,Sitarskich,9,L-120K,1,200301,3 piątek
+BHB,05-840,Brwinów,Józefa Ignacego Kraszewskiego,20,L-1100K,1,200301,co tydzień czwartek
+BHC,05-850,Koprki,Jaśminowa,11,L-1100P,1,150101,co tydzień wtorek
+BRC,96-315,Wiskitki,Zagródź,19,L-120T,1,150106,2 piątek
+BRA,05-825,Grodzisk Mazowiecki,Zachodnia,8,L-1100K,1,200301,co tydzień czwartek
+BHC,05-830,Urzut,Ekologiczna,29,L-1100K,1,200301,2 i 4 piątek
+BRC,05-825,Kałęczyn,Okopowa,32,L-1100K,1,200301,co tydzień czwartek
+BWC,05-504,Runów,Solidarności,23,L-1100K,1,200301,co tydzień środa
+PW,04-141,Warszawa,Szaserów,24,L-120B,1,200201,2 wtorek
+BRC,05-825,Grodzisk Mazowiecki,Radońska,21,L-120K,1,200301,1 i 3 czwartek
+BWB,00-739,Warszawa,Stępińska,29,L-120S,1,150107,co tydzień środa
+BRC,05-825,Grodzisk Mazowiecki,11 Listopada,12,L-120P,1,150101,1 piątek
+BHC,,Tarczyn,Oszkiela,30,L-1100S,1,200102,2 i 4 czwartek
+BRC,05-825,Grodzisk Mazowiecki,R. Traugutta,5,L-240T,1,150106,4 czwartek
+BWB,02-147,Warszawa,Paluch,26,L-1100P,1,150101,2 i 4 czwartek
+BWA,00-043,Warszawa,Czackiego,9,L-1100T,1,200139,1 wtorek
+BRC,96-321,Osowiec,Przyjaciół,11,L-120S,1,150107,1 i 3 poniedziałek
+BWC,,Zalesie Górne,Gościniec Warecki,8,L-240T,1,150102,1 środa
+BWC,05-500 ,Piaseczno,ul. Szkolna,9,L-120P,1,150101,4 piątek
+BHC,05-555,Suchodół,ul. Słoneczna,22,L-240K,1,200301,1 i 3 środa
+BRC,05-825,Grodzisk Mazowiecki,Chłopickiego,12,L-120K,1,200301,2 i 4 czwartek
+BWC,05-552,Łazy,Przyszłości,10,L-1100P,1,150101,co tydzień środa
+BWC,,Raszyn,Projektowana,27,L-120K,1,200301,co tydzień wtorek
+BRC,96-300,Żyrardów,Marii Nietrzebki,26,L-240K,1,200301,2 i 4 poniedziałek
+BWC,05-820,Piastów,Sułkowskiego,27,L-240P,1,150101,1 i 3 wtorek
+BWB,01-702,Warszawa,Ogólna,9,L-1100P,1,150101,co tydzień poniedziałek
+BRC,05-822,Milanówek,Przeskok,7,L-1100K,1,200301,1 i 3 czwartek
+BRB,05-825,Grodzisk Mazowiecki,Cieszyńska,30,UP-7P,1,150101,1 i 3 piątek
+BWC,05-500 ,Piaseczno,Stołeczna,28,L-1100K,1,200301,co tydzień poniedziałek
+BWA,01-377,Warszawa,Połczyńska,11,L-1100K,1,200301,poniedziałek czwartek
+BHB,05-807,Owczarnia,Cyprysowa,15,L-240K,1,200301,1 i 3 czwartek
+BHC,05-090,Sękocin Las,Wierzbowa,6,L-240T,1,150106,3 środa
+BHA,96-300,Żyrardów,Reymonta,14,L-1100K,1,200301,poniedziałek piątek
+BWC,05-500,Jesówka,Dzikich Gęsi,17,L-240K,1,200301,2 i 4 poniedziałek
+BWC,05-503,Głosków,Korczunkowa,25,L-1100K,1,200301,poniedziałek środa
+BHC,05-831,Rozalin,Przyjazna,18,L-120K,1,200301,2 i 4 piątek
+PW,04-141,Warszawa,Garwolińska,12,L-1100S,1,150107,2 środa
+BWC,02-386,Warszawa,Usypiskowa,10,L-1100T,1,150102,2 i 4 piątek
+BWC,05-500 ,Piaseczno,Chyliczkowska,30,L-120T,1,150102,3 środa
+BWC,05-500 ,Piaseczno,Dunikowskiego,13,L-120S,1,150107,4 czwartek
+BRC,05-825,Chrzanów Mały,Chrzanów Mały,29,L-240K,1,200301,2 i 4 czwartek
+BWC,05-503,Robercin,Podskarbińska,10,L-120T,1,150102,1 i 3 środa
+BWC,05-090,Falenty,Aleja Hrabska,5,L-1100P,1,150101,2 czwartek
+BWC,02-238,Warszawa,Modularna,11,L-1100K,1,200301,co tydzień wtorek
+BRC,05-822,Milanówek,Zbigniewa Herberta,22,L-240P,1,150101,2 i 4 wtorek
+BRC,05-825,Grodzisk Mazowiecki,Żydowska,12,L-120K,1,200301,1 i 3 czwartek
+BHC,05-090,Raszyn,Krucza,26,L-1100T,1,150106,1 i 3 środa
+BRC,96-300,Żyrardów,Gdańska,17,L-1100T,1,150106,4 poniedziałek
+BHC,05-807,Podkowa Leśna,Sosnowa,18,L-1100P,1,150101,4 wtorek
+BRB,05-825,Odrano-Wola,Grota Roweckiego,6,L-240T,1,150102,co tydzień czwartek
+BWC,05-502,Wólka Kozodawska,Szczęśliwa,27,L-120K,1,200301,3 poniedziałek
+BWC,05-506,Lesznowola,Żubra,17,L-240K,1,200301,1 i 3 środa
+BWC,05-503, Wola Gołkowska,Gościniec,12,L-1100T,1,150102,1 i 3 środa
+BRC,96-321,Bieniewiec,Zagrodowa,30,L-120T,1,150106,1 i 3 poniedziałek
+BWC,05-506,Lesznowola,Gminna,10,L-240K,1,200301,1 i 3 środa
+BHC,05-805,Otrębusy,Piaseckiego,12,L-240B,1,200108,2 i 4 czwartek
+BWB,02-863,Warszawa,Jeziorki,14,L-1100K,1,200301,co tydzień poniedziałek
+BRB,05-825,Grodzisk Mazowiecki,J. Słowackiego,29,UP-7K,1,200301,poniedziałek środa
+BHA,05-082,Stare Babice,Józefa Piłsudskiego,11,L-240K,1,200301,2 i 4 wtorek
+BHC,05-830,Nadarzyn,Kubusia Puchatka,28,L-240K,1,200301,1 i 3 piątek
+BWC,02-495,Warszawa,Żołnierzy 2 Armii Wojska Polskiego,20,L-240P,1,150101,2 i 4 poniedziałek
+BRC,96-313,Budy Zosine,Kaska,13,L-120P,1,150101,2 piątek
+BRC,05-505,Błonie,Kolejowa,7,L-1100P,1,150101,3 wtorek
+BWC,05-504,Henryków-Urocze,Społeczna,12,L-240K,1,200301,1 i 3 środa
+BWC,05-090,Podolszyn Nowy,Wygody,29,L-240K,1,200301,4 wtorek
+BRC,96-313,Jaktorów,Błotna,6,L-1100K,1,200301,2 i 4 piątek
+BRC,05-825,Grodzisk Mazowiecki,Dębowa,10,L-240K,1,200301,1 i 3 czwartek
+BHC,05-850,Duchnice,Duchnicka,17,L-1100T,1,150106,4 poniedziałek
+BRC,96-317,Guzów,Michała Ogińskiego,32,L-1100K,1,200301,2 piątek
+BWB,05-500 ,Piaseczno,Techniczna,19,L-240T,1,150104,co tydzień środa
+BRC,96-300,Żyrardów,Łukasińskiego,9,L-120P,1,150101,3 piątek
+BRC,96-325,Krze Duże,Krze Duże,22,UP-5.K,1,200301, - - - - - - -
+BHC,96-321,Żabia Wola,Zielonej Żabki,33,L-1100T,1,150102,2 i 4 poniedziałek
+BHC,05-850,Macierzysz,Sławęcińska,34,L-240K,1,200301,2 i 4 wtorek
+PR,96-300,Żyrardów,Chopina,17,L-1100K,1,200301,co tydzień poniedziałek
+BRC,96-313,Jaktorów Kolonia,Dobra,33,L-1100K,1,200301,1 i 3 piątek
+BWB,02-336,Warszawa,Włochowska,27,L-1100K,1,200301,co tydzień piątek
+BHA,05-090,Sękocin Nowy,Handlowa,7,L-240K,1,200301,1 i 3 wtorek
+BRB,96-300,Żyrardów,Dekerta,30,L-1100P,1,150101,2 i 4 piątek
+BWC,05-090,Falenty Nowe,Rozbrat,25,L-120K,1,200301,2 i 4 wtorek
+BHC,05-850,Ożarów Mazowiecki,Kręta,13,L-240P,1,150101,4 wtorek
+BWC,05-090,Falenty Nowe,Droga Hrabska,30,L-120K,1,200301, - - - - - - - co 0
+BHB,05-850,Ożarów Mazowiecki,Gen. Henryka Dąbrowskiego,31,L-1100K,1,200301,co tydzień wtorek
+BHC,05-090,Janki,Sezamkowa,13,L-240P,1,150101,1 i 3 czwartek
+BHC,05-800,Pruszków,Magazynowa,25,L-1100K,1,200301,co tydzień wtorek
+BHB,05-830,Stara Wieś,Głogowa,33,L-120K,1,200301,2 środa
+BRA,96-320 ,Mszczonów,Ługowa,28,UP-7K,1,200301,co tydzień środa
+BRC,05-825,Czarny Las,Cisowa,15,L-120K,1,200301,1 i 3 czwartek
+BWC,05-090,Falenty Nowe,Magiczna,21,L-120S,1,150107,2 piątek
+BWC,05-506,Magdalenka,Modrzewiowa,29,L-120K,1,200301,co tydzień środa
+BWC,05-500 ,Piaseczno,Opalowa,14,L-120P,1,150101,2 i 4 piątek
+BWC,05-500 ,Piaseczno,Wschodnia,33,L-120K,1,200301,3 poniedziałek
+BHA,05-090,Raszyn-Rybie,NA SKRAJU,29,L-1100K,1,200301,4 wtorek co 4 tygodnie
+BWC,05-090,Falenty Nowe,Willowa,8,L-240K,1,200301,2 i 4 wtorek
+BWB,05-825,Kozery,gen. Gustawa Orlicz-Dreszera,34,L-240K,1,200301,2 i 4 czwartek
+BHB,05-830,Nadarzyn,Księżycowa,8,L-1100T,1,150102,2 piątek
+BRC,05-825,Grodzisk Mazowiecki,Lutniana,11,L-240K,1,200301,1 i 3 czwartek
+BHC,05-831,Rozalin,Daniewice,10,L-120K,1,200301,2 i 4 piątek
+BRC,05-825,Grodzisk Mazowiecki,Piaskowa,27,L-240K,1,200301,4 czwartek
+BRA,96-315,Cyganka,Francuska,17,UP-7K,1,200301,co tydzień środa
+BRB,96-313,Jaktorów,Generała Skokowskiego,27,L-1100K,1,200301,co tydzień piątek
+BHA,05-850,Konotopa,Rajdowa,29,UP-7K,1,200301,co tydzień wtorek
+BHA,05-090,Janki,Majowa,28,L-1100K,1,200301,co tydzień wtorek
+BWC,02-781,Warszawa,Roentgena,9,L-120T,1,150102,2 piątek
+BHC,05-805,Kanie,Zawilcowa,25,L-240K,1,200301,1 i 3 czwartek
+BHA,05-800,Pruszków,Niska,13,L-1100K,1,200301,Czwartek co 4 tygodnie II
+BHC,05-830,Strzeniówka,Dzikiej Róży,6,L-240K,1,200301,2 i 4 środa
+BWC,05-500,Nowa Iwiczna,Kielecka,25,L-1100K,1,200301,co tydzień środa
+BWC,02-784,Warszawa,Herbsta,31,L-240S,1,150107,1 i 3 piątek
+BWC,05-500 ,Piaseczno,Zgoda,29,L-240K,1,200301,co tydzień poniedziałek
+BWB,05-500 ,Piaseczno,Sierakowskiego,28,L-1100S,1,150107,2 i 4 czwartek
+BRC,05-825,Grodzisk Mazowiecki,Kłudno Stare,19,L-1100K,1,200301,2 i 4 wtorek
+BHA,05-806,Pęcice,Piachy,28,UP-5.K,1,200301,co tydzień czwartek
+BWA,03-242,Warszawa,Kondratowicza,24,L-1100K,1,200301,co tydzień poniedziałek
+BWB,05-500 ,Piaseczno,Plac Piłsudskiego,22,L-1100K,1,200301,co tydzień poniedziałek
+BHC,05-830,Stara Wieś,Miłosna,22,L-240K,1,200301,2 i 4 piątek
+BRA,05-816,Opacz Kolonia,Spisaka,33,L-1100K,1,200301,co tydzień piątek
+BRC,05-825,Kałęczyn,Przesmyk,29,L-120K,1,200301,1 i 3 czwartek
+BHC,05-830,Wolica,Przyleśna,24,L-1100K,1,200301,1 i 3 piątek
+BHC,05-831,Krakowiany,Młynowa,25,L-240T,1,150102,1 poniedziałek
+BHB,05-800,Pruszków,Ołówkowa,29,L-120S,1,150107,2 i 4 piątek
+BHC,05-830,Wolica,Przerąbkowska,24,L-1100K,1,200301,1 i 3 środa
+BWC,05-800,Pruszków,al. Wojska Polskiego,30,L-240K,1,200301,wtorek czwartek
+BRC,96-321,Józefina,Gałązki,27,L-1100K,1,200301,1 i 3 piątek
+BRC,05-825,Opypy,Piwoniowa,5,L-1100K,1,200301,co tydzień czwartek
+BHC,05-831,Rozalin,Rukoli,32,L-120K,1,200301,2 i 4 piątek
+BHC,05-830,Kostowiec,Dymman,20,L-1100K,1,200301,co tydzień piątek
+BWC,02-290,Warszawa,Dzwonkowa,25,L-120P,1,150101,2 poniedziałek
+BRC,96-313,Jaktorów Kolonia,Kleeberga,32,L-1100K,1,200301,1 i 3 piątek
+BWC,00-252,Warszawa,Górczewska,8,L-1100K,1,200301,2 i 4 czwartek
+BHA,05-090,Raszyn,Gałczyńskiego,32,L-1100K,1,200301,1 i 3 wtorek
+BHC,05-830,Stara Wieś,Bajkowa,12,L-240K,1,200301,2 i 4 piątek
+BHC,05-090,Janki,Wichrowa,26,L-120K,1,200301,2 i 4 wtorek
+BRC,96-300,Żyrardów,Polskiej Organizacji Wojskowej,8,L-120K,1,200301,2 poniedziałek
+BWC,05-090,Rybie,19 kwietnia,8,L-1100K,1,200301,1 i 3 wtorek
+BWC,05-090,Raszyn,"Puchały, Centralna",23,L-1100K,1,200301,2 i 4 wtorek
+BWC,05-500 ,Piaseczno,Kazimierza Jarząbka,16,L-240S,1,150107,4 czwartek
+BRC,05-825,Opypy,Gilewicza,34,L-120P,1,150101,4 środa
+BRA,96-320 ,Mszczonów,3-go Maja,21,L-1100K,1,200301,co tydzień środa
+BHC,05-830,Urzut,Sosenki,19,L-120P,1,150101,2 i 4 czwartek
+BWC,05-090,Raszyn,Mieszka I,11,L-120K,1,200301,1 i 3 wtorek
+BWC,05-500 ,Piaseczno,Syrenki,6,L-120S,1,150107,1 czwartek
+BWC,05-090,Raszyn,Pastelowa,16,L-1100K,1,200301,1 i 3 wtorek
+BRC,96-300,Krzyżówka,Wypoczynkowa,24,L-1100K,1,200301,3 środa
+BHC,05-807,Żółwin,Wiktorii,32,L-1100K,1,200301,1 i 3 czwartek
+BRC,96-313,Jaktorów,Pomorska,23,L-1100K,1,200301,2 i 4 piątek
+BRC,96-300,Żyrardów,Legionów Polskich,28,L-120T,1,150106,2 poniedziałek
+BWC,05-502,Gołków,Łąkowa,18,L-120T,1,150102,2 środa
+BRC,05-825,Odrano-Wola,Liściasta,28,L-1100K,1,200301,1 i 3 czwartek
+BRC,05-825,Kozery,Gruntowa,13,L-1100K,1,200301,2 i 4 czwartek
+BRB,02-830,Warszawa,Mazura,14,L-1100K,1,200301,co tydzień środa
+BHC,96-321,Kaleń,Brzoskwiniowa,34,L-240K,1,200301,1 i 3 piątek
+BHC,05-800,Pruszków,Pańska,24,L-1100P,1,150101,2 i 4 wtorek
+PW,96-316 ,Międzyborów,Partyzantów,10,L-240K,1,200301,co tydzień piątek
+PH,05-830,Wolica,Złotego Kłosa,10,L-1100K,1,200301,2 i 4 piątek
+BHA,05-840,Brwinów,Świętego Tomasza,18,"UP-2,5K",1,200301,2 i 4 czwartek
+BHC,05-830,Kajetany,Karola Łoniewskiego,16,L-1100K,1,200301,1 i 3 piątek
+BWC,05-500 ,Piaseczno,Herberta,14,L-240K,1,200301,2 i 4 poniedziałek
+BRC,96-300,Żyrardów,Józefa Mireckiego,6,L-120K,1,200301,4 poniedziałek
+BHA,05-082,Stare Babice,Ogrodnicza,31,L-1100K,1,200301,2 i 4 wtorek
+BRC,05-825,Grodzisk Mazowiecki,Grunwaldzka,19,L-120K,1,200301,2 i 4 czwartek
+BHC,05-840,Brwinów,Obwodnica,9,L-1100K,1,200301,1 i 3 czwartek
+BRC,05-825,Grodzisk Mazowiecki,Na Laski,22,L-1100K,1,200301,1 i 3 czwartek
+BRC,05-825,Chrzanów Mały,Pączkowa,30,L-120P,1,150101,1 i 3 wtorek
+BHC,05-831,Wola Krakowiańska,Jastrzębska,32,L-120K,1,200301,1 i 3 piątek
+BRC,02-777,Warszawa,Cynamonowa,8,L-120K,1,200301,4 poniedziałek
+BWC,02-445,Warszawa,Potrzebna,33,L-1100K,1,200301,1 i 3 wtorek

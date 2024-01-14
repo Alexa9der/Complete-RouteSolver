@@ -1,0 +1,13 @@
+data/maps/mazowieckie-latest.osm.pbf filter=lfs diff=lfs merge=lfs -text
+data/GeoDataFrames/data.pkl filter=lfs diff=lfs merge=lfs -text
+data/GeoDataFrames/geo_data.pkl filter=lfs diff=lfs merge=lfs -text
+data/maps/mazowieckie-latest-free.shp.zip filter=lfs diff=lfs merge=lfs -text
+
+*.osm.pbf filter=lfs diff=lfs merge=lfs -text
+*.shp.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.graphml binary
+*.html
+*.graphml filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text

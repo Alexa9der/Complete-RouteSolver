@@ -1,0 +1,4 @@
+full address,latitude,longitude,Pojemnosc,Rodzaj klienta,Kod pocz.,Miasto,Ulica,Nr budynku,Ilość poj.,Kod odpadu,Cykl,Harmonogram,Numer tygodnia,Dni tygodnia,Okres_start,Okres_stop,Suma kontrolna,1Pn,1Wt,1Sr,1Cz,1Pt,1So,2Pn,2Wt,2Sr,2Cz,2Pt,2So,3Pn,3Wt,3Sr,3Cz,3Pt,3So,4Pn,4Wt,4Sr,4Cz,4Pt,4So,Częstotliwość,groups,outliner,new_frequency,route
+"Zawodzie 18, 02-981 Warszawa",52.18342590332031,21.08544158935547,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+"Poland, 05-552, Łazy, Łączności, 33",52.08114242553711,20.87889862060547,1100.0,BWC,05-552,Łazy,Łączności,33.0,1.0,40209,1 i 3 środa,2 razy w miesiącu,"1, 3",Sr,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3Sr,3Sr_B_40209,1.0,3Sr_B_40209,1
+"Zawodzie 18, 02-981 Warszawa",52.18342590332031,21.08544158935547,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1

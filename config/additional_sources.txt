@@ -1,0 +1,5 @@
+googl maps:
+https://www.google.com/maps/d/u/0/edit?mid=1qHhQXljzWLvb07Tf72qjLGdz032sOsk&ll=39.747677535008286%2C19.60681880521713&z=4
+
+converting KML/KMZ(WGS84) to Geojson:
+https://alender.ru/kmltogeojson

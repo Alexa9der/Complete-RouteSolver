@@ -1,0 +1,32 @@
+Kod odpadu,Nazwa_odpadu,Możliwość łączenia,Kompresja
+150101.0,Opakowania z papieru i tektury,200201,0.27
+150102.0,Opakowania z tworzyw sztucznych,"150106, 150104, 200139",0.225
+150103.0,Opakowania z drewna,,1.0
+150104.0,Opakowania z metali,"150106, 150102, 200139",0.225
+150106.0,Zmieszane odpady opakowaniowe,"150102, 150104, 200139",0.225
+150107.0,Opakowania ze szkła,200102,0.5
+150110.0,Opakowania zawierające pozostałości substancji niebezpiecznych lub nimi zanieczyszczone,,1.0
+150111.0,Opakowania z metali zawierające niebezpieczne porowate elementy wzmocnienia konstrukcyjnego (np. azbest); włącznie z pustymi pojemnikami ciśnieniowymi,,1.0
+150202.0,Sorbenty; materiały filtracyjne (w tym filtry olejowe nieujęte w innych grupach); tkaniny do wycierania (np. szmaty; ścierki) i ubrania ochronne zanieczyszczone substancjami niebezpiecznymi (np. PCB),,1.0
+150203.0,Sorbenty; materiały filtracyjne; tkaniny do wycierania (np. szmaty; ścierki) i ubrania ochronne inne niż wymienione w 15 02 02,,1.0
+170101.0,Odpady betonu oraz gruz betonowy z rozbiórek i remontów,,1.0
+170107.0,Zmieszane odpady z betonu; gruzu ceglanego; odpadowych materiałów ceramicznych i elementów wyposażenia inne niż wymienione w 17 01 06,,1.0
+170201.0,Drewno,,1.0
+170203.0,Tworzywa sztuczne,,0.225
+170604.0,Materiały izolacyjne inne niż wymienione w 17 06 01 i 17 06 03,,1.0
+170904.0,Zmieszane odpady z budowy; remontów i demontażu inne niż wymienione w 17 09 01; 17 09 02 i 17 09 03,,1.0
+200101.0,Papier i tektura,150101,0.27
+200102.0,Szkło,150107,0.5
+200108.0,Odpady kuchenne ulegające biodegradacji,"200201, 200301",0.45
+200111.0,Tekstylia,,1.0
+200121.0,Lampy fluorescencyjne i inne odpady zawierające rtęć,,1.0
+200132.0,Leki inne niż wymienione w 20 01 31,,1.0
+200134.0,	Baterie i akumulatory inne niż wymienione w 20 01 33,,1.0
+200135.0,Zużyte urządzenia elektryczne i elektroniczne inne niż wymienione w 20 01 21 i 20 01 23 zawierające niebezpieczne składniki5),,1.0
+200139.0,Tworzywa sztuczne,"150106, 150102, 150104",0.225
+200201.0,Odpady ulegające biodegradacji,"200108, 200301",0.45
+200301.0,Niesegregowane (zmieszane) odpady komunalne,"200201, 200108",0.45
+200307.0,Odpady wielkogabarytowe,,1.0
+200399.0,Odpady komunalne niewymienione w innych podgrupach,,1.0
+40209.0,Odpady materiałów złożonych (np. tkaniny impregnowane; elastomery; plastomery),,1.0
+70681.0,Zwroty kosmetyków i próbek,,1.0

@@ -1,0 +1,4 @@
+full address,latitude,longitude,Pojemnosc,Rodzaj klienta,Kod pocz.,Miasto,Ulica,Nr budynku,Ilość poj.,Kod odpadu,Cykl,Harmonogram,Numer tygodnia,Dni tygodnia,Okres_start,Okres_stop,Suma kontrolna,1Pn,1Wt,1Sr,1Cz,1Pt,1So,2Pn,2Wt,2Sr,2Cz,2Pt,2So,3Pn,3Wt,3Sr,3Cz,3Pt,3So,4Pn,4Wt,4Sr,4Cz,4Pt,4So,Częstotliwość,groups,route
+"Zawodzie 18, 02-981 Warszawa",52.183426,21.085442,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+"Poland, 05-800, Pruszków, Kraszewskiego, 29",52.163036,20.808449,60.0,PR,05-800,Pruszków,Kraszewskiego,29.0,1.0,150107_200102,4 piątek,1 raz w miesiącu,4,Pt,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4Pt,4Pt_P_150107_200102,1
+"Zawodzie 18, 02-981 Warszawa",52.183426,21.085442,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
